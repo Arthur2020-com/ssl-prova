@@ -1,0 +1,5 @@
+O Certificate Signing Request é um pedido de certificado.
+
+Ele contém os dados da organização, o nome do domínio e a chave pública
+
+Ele e usado para enviar a uma Autoridade Certificadora.
