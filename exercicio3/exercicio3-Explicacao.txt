@@ -1,0 +1,5 @@
+A chave privada é um arquivo secreto usado para criptografia.
+
+2048 bits → refere-se ao tamanho da chave (segurança)
+A chave privada nunca deve ser compartilhada 
+A chave sera usada para: assinar certificados e descriptografar os dados existentes.
