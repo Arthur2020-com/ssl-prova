@@ -1,0 +1,4 @@
+Esse diretório criado acima sera utilizado para armazenar certificados digitais no sistema.
+
+/etc/ssl/ → padrão para arquivos de segurança de qualquer tipo
+certificates/ → onde ficarão os certificados gerados dentro da maquina virtual.
