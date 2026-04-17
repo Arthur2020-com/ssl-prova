@@ -1,0 +1,5 @@
+Explicação:
+
+O comando scp copia arquivos de forma segura entre máquinas usando Secure Shell.
+
+Ele criptografa a transferência usando autenticação por usuário/senha ou chave.
