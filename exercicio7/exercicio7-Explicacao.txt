@@ -1,0 +1,5 @@
+Vai dar erro porque, o servidor HTTP do Python não suporta HTTPS por padrão.
+
+Problemas disso seriam o desuso do certificado SSL. Assim como navegador acusa conexão insegura
+
+Erro típico comum: "Sua conexão não é privada"
