@@ -1,0 +1,3 @@
+Vemos aqui os comandos para instalar o OpenSSL na maquina virtual escolhida. 
+O OpenSSL seria a ferramenta usada para trabalhos de criptografia e certificados digitais, todos usando protocolos como SSL ou TLS.
+A ferramenta permite fazer criptografia e descriptografia tambem.
