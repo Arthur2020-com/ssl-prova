@@ -1,0 +1,6 @@
+Aqui, estamos criando um certificado autoassinado.
+
+-days 365 → referente a uma validade de 1 ano
+-signkey → certificado foi assinado pela própria chave (não confiável publicamente)
+
+Esse certificado permite usar HTTPS, mas o navegador não confia nele automaticamente
